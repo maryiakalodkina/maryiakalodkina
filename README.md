@@ -4,9 +4,7 @@ My name is Maryia Kalodkina.
 
 I have just graduated in December 2021 from Pace University's Seidenberg School of Computer Science & Information Systems with the Bachelor of Science degree in Computer Science, summa cum laude and with the Susan M. Merritt Women in Computing Award for Academic Excellence. 
 
-I am interested in the field of Software Engineering and App Development. 
-
-I'm looking for a full-time job as a Software Engineer/App Developer where I can utilize my coding abilities and skills and devote myself to interesting software projects (New York or remotely).
+I am interested in the field of Software Engineering and App Development, and am looking for a full-time job as a Software Engineer/App Developer where I can utilize my coding abilities and skills and devote myself to interesting software projects (New York or remotely).
 
 
 ### :woman_technologist: Technical Skills:
