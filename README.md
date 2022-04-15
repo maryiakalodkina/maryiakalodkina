@@ -11,11 +11,11 @@ I am interested in the field of Software Engineering and App Development, and am
 
 **Programming Languages:** Python, Java, C, Shell (Bash), SQL (beginner), C# (beginner), Assembly language x86
 
-**Web Technologies / Scripting Languages:** HTML, CSS
+**Web Technologies / Scripting Languages:** HTML, CSS, JavaScript (beginner) 
 
 **Mobile Development:** Android Studio
 
-**Software:** GitHub, Ubuntu, Visual Studio, Eclipse, Intellij IDEA, Unity, Mininet, Git, pgAdmin 4, Canva, Miro, Blender
+**Tools / Software:** GitHub, Ubuntu, Visual Studio Code, Eclipse, Intellij IDEA, Unity, Mininet, Git, pgAdmin 4, Canva, Miro, Blender
 
 **Databases:** PostgreSQL, MySQL, Firebase
 
