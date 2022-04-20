@@ -9,13 +9,13 @@ I am interested in the field of Software Engineering and App Development, and am
 
 ### :woman_technologist: Technical Skills:
 
-**Programming Languages:** Python, Java, C, Shell (Bash), SQL (beginner), C# (beginner), Assembly language x86
+**Programming Languages:** Python, Java, C, Shell (Bash), SQL, C# (beginner), Assembly language x86
 
-**Web Technologies / Scripting Languages:** HTML, CSS, JavaScript (beginner) 
+**Web Technologies / Scripting Languages:** HTML, CSS, JavaScrip
 
 **Mobile Development:** Android Studio
 
-**Tools / Software:** GitHub, Ubuntu, Visual Studio Code, Eclipse, Intellij IDEA, Unity, Mininet, Git, pgAdmin 4, Canva, Miro, Blender
+**Tools / Software:** GitHub, Ubuntu, Visual Studio Code, Eclipse, Intellij IDEA, Unity, Mininet, Git, pgAdmin 4, Canva, Miro, Blender, Figma
 
 **Databases:** PostgreSQL, MySQL, Firebase
 
