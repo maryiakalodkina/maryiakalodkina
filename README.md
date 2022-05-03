@@ -11,7 +11,7 @@ I am interested in the field of Software Engineering and App Development, and am
 
 **Programming Languages:** Python, Java, C, Shell (Bash), SQL, C# (beginner), Assembly language x86
 
-**Web Technologies / Scripting Languages:** HTML, CSS, JavaScrip
+**Web Technologies / Scripting Languages:** HTML, CSS, JavaScript
 
 **Mobile Development:** Android Studio
 
